@@ -14,7 +14,6 @@
 	</issueManagement>
 
 
-
 	<scm>
 		<url>https://github.com/amusaku/example</url>
 		<connection>scm:git:git://github.com/amusaku/example.git</connection>
