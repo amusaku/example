@@ -9,23 +9,17 @@
 	<url>https://github.com/amusaku/example</url>
 
 	<issueManagement>
-		<url>https://github.com/amusaku/example/issues</url>
+		<url>http://rmt.tecnositaf.it/thebuggenie/rmt3</url>
 		<system>GitHub Issues 1</system>
 	</issueManagement>
 
-	<licenses>
-		<license>
-			<name>MIT License</name>
-			<url>http://www.opensource.org/licenses/mit-license.php</url>
-			<distribution>repo</distribution>
-		</license>
-	</licenses>
+
 
 	<scm>
 		<url>https://github.com/amusaku/example</url>
 		<connection>scm:git:git://github.com/amusaku/example.git</connection>
 		<developerConnection>scm:git:git@github.com:amusaku/example.git</developerConnection>
-	  <tag>&lt;project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"&gt;</tag>
+	
   </scm>
 
 
@@ -43,26 +37,6 @@
         <version>2.0-beta-9</version>
       </plugin>
   
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<configuration>
-					<source>1.6</source>
-					<target>1.6</target>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-jar-plugin</artifactId>
-				<configuration>
-					<archive>
-						<manifest>
-							<addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-							<addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-						</manifest>
-					</archive>
-				</configuration>
-			</plugin>
 		</plugins>
 	</build>
 
