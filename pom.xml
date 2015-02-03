@@ -3,7 +3,7 @@
 
 	<groupId>com.github.amusaku</groupId>
 	<artifactId>example</artifactId>
-	<version>3.3-SNAPSHOT</version>
+	<version>3.3</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
 	<url>https://github.com/amusaku/example</url>
