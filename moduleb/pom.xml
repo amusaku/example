@@ -2,14 +2,14 @@
  <parent>
     <artifactId>example</artifactId>
     <groupId>com.github.amusaku</groupId>
-    <version>4.5-SNAPSHOT </version>
+    <version>1.3-SNAPSHOT </version>
   </parent>
 
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.amusaku</groupId>
 	<artifactId>moduleb</artifactId>
-	<version>4.4</version>
+	<version>1.3-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
 	<url>https://github.com/amusaku/example</url>
